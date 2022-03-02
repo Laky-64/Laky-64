@@ -1,12 +1,16 @@
 <p align="center">
     <a href="https://github.com/Laky-64/Laky-64">
-        <img style="overflow: hidden;border-radius: 10px" src="https://github.com/Laky-64/Laky-64/raw/main/fox.png" alt="fox_banner" />
+        <img src="https://github.com/Laky-64/Laky-64/raw/main/fox.png" alt="fox_banner" />
     </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Laky-64)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark">
 
-**Laky-64/Laky-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <h2> Hi, I'm Laky64!</h2>
+
+- :house: I live in Italy :flag_it:
+- :snake: I like Python
+- :earth_africa: check out
 
 Here are some ideas to get you started:
 
