@@ -1,6 +1,13 @@
+<p align="center">
+    <a href="https://github.com/Laky-64/Laky-64">
+        <img src="fox.png" alt="fox_banner" />
+    </a>
+</p>
+
+
 ### Hi there 👋
 
-<!--
+
 **Laky-64/Laky-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
