@@ -6,11 +6,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark">
 
-### <h2> Hi, I'm Laky64!</h2>
+##  Hi, I'm Laky64!
 
-- :house: I live in Italy :flag_it:
-- :snake: I like Python
-- :earth_africa: check out
+- :house: I live in Italy :it:
+- :snake: I like too much <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"> GoLang and <img width="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"> Python
 
 Here are some ideas to get you started:
 
