@@ -4,12 +4,12 @@
     </a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
 
 ## Hi, I'm Laky64!
-I'm just a Fo... Dev! Not a Fox! I am a developer! By the way, let's introduce myself!
-I am a developer since 2012, I started studying Visual Basic as my first programming
-language, then I started studying Java programming Android, C ++, C # and so on over time.
+I'm just a Fo... Dev! Not a Fox! I'm a developer! By the way, let's introduce myself!
+I'm 20 years old, and I'm a developer since 2012, I started studying Visual Basic as my first programming
+language, then I started studying Java programming Android, C++, PHP and so on over time.
 I love drawing and watching Disney movies in my spare time, my favourite animals are
 Fox and Red Panda.
 
@@ -32,5 +32,8 @@ Fox and Red Panda.
 </a>
 <a href="https://isocpp.org/">
 <img width="33" src="https://isocpp.org/assets/images/cpp_logo.png" alt="CPP">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img width="36" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" alt="CPP">
 </a>
 </p>
