@@ -7,10 +7,10 @@ language, then I started studying Java programming Android, C++, PHP and so on o
 I love drawing and watching Disney movies in my spare time, my favourite animals are
 Fox and Red Panda.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
 
-## Programming Languages
 <samp>
+<h2>Programming Languages</h2>
 <p>
 <a href="https://www.python.org/">
 <img width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="PY">
