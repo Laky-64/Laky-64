@@ -1,10 +1,4 @@
-<p align="center">
-    <a href="https://github.com/Laky-64/Laky-64">
-        <img src="https://github.com/Laky-64/Laky-64/raw/main/fox.png" alt="fox_banner" />
-    </a>
-</p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
+<img align="left" src="https://github.com/Laky-64/Laky-64/blob/main/LakyNomidLogo.png" alt="Stats" width="300px">
 
 ## Hi, I'm Laky64!
 I'm just a Fo... Dev! Not a Fox! I'm a developer! By the way, let's introduce myself!
@@ -12,6 +6,8 @@ I'm 20 years old, and I'm a developer since 2012, I started studying Visual Basi
 language, then I started studying Java programming Android, C++, PHP and so on over time.
 I love drawing and watching Disney movies in my spare time, my favourite animals are
 Fox and Red Panda.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
 
 ## Programming Languages
 <p>
