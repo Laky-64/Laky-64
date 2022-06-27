@@ -7,8 +7,6 @@ language, then I started studying Java programming Android, C++, PHP and so on o
 I love drawing and watching Disney movies in my spare time, my favourite animals are
 Fox and Red Panda.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
-
 <samp>
 <h2>Programming Languages</h2>
 <p>
@@ -35,3 +33,4 @@ Fox and Red Panda.
 </a>
 </p>
 </samp>
+<img src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
