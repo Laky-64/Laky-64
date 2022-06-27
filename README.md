@@ -10,7 +10,8 @@ Fox and Red Panda.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
 
 ## Programming Languages
-<p align="right">
+<samp>
+<p>
 <a href="https://www.python.org/">
 <img width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="PY">
 </a>
@@ -33,3 +34,4 @@ Fox and Red Panda.
 <img width="36" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" alt="CPP">
 </a>
 </p>
+</samp>
