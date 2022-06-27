@@ -10,7 +10,7 @@ Fox and Red Panda.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
 
 ## Programming Languages
-<p>
+<p align="right">
 <a href="https://www.python.org/">
 <img width="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="PY">
 </a>
