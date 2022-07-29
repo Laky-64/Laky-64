@@ -32,6 +32,9 @@ Fox and Red Panda.
   <a href="https://www.mongodb.com">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
   <a href="https://www.typescriptlang.org">
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
@@ -40,6 +43,9 @@ Fox and Red Panda.
   </a>
   <a href="https://www.arduino.cc">
     <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
 </samp>
