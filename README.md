@@ -7,28 +7,39 @@ language, then I started studying Java programming Android, C++, PHP and so on o
 I love drawing and watching Disney movies in my spare time, my favourite animals are
 Fox and Red Panda.
 
-<h2>Programming Languages</h2>
+<h3>Languages, Database, Tools</h3>
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://go.dev">
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://developer.android.com">
     <img src="https://skillicons.dev/icons?i=androidstudio" />
   </a>
-  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <a href="https://gradle.org">
     <img src="https://skillicons.dev/icons?i=gradle" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.php.net">
     <img src="https://skillicons.dev/icons?i=php" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://redis.io">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://www.typescriptlang.org">
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.javascript.com">
     <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.arduino.cc">
+    <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
 </p>
 </samp>
