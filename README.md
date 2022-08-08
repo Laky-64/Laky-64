@@ -48,5 +48,4 @@ Fox and Red Panda.
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
-</samp>
 <img src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
