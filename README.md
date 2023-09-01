@@ -15,6 +15,15 @@ Fox and Red Panda.
   <a href="https://go.dev">
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
+  <a href="https://isocpp.org">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://cmake.org">
+    <img src="https://skillicons.dev/icons?i=cmake" />
+  </a>
   <a href="https://developer.android.com">
     <img src="https://skillicons.dev/icons?i=androidstudio" />
   </a>
