@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Laky-64/Laky-64/blob/main/LakyNomidLogo.png" alt="Stats" width="300px">
+<img align="left" src="https://github.com/Laky-64/Laky-64/blob/main/LakyRef.png" alt="Stats" width="300px">
 
 ## Hi, I'm Laky64!
 I'm just a Fo... Dev! Not a Fox! I'm a developer! By the way, let's introduce myself!
