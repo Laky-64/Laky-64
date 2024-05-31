@@ -1,11 +1,11 @@
 <img align="left" src="https://github.com/Laky-64/Laky-64/blob/main/LakyRef.png" alt="Stats" width="300px">
 
-## Hi, I'm Laky64!
-I'm just a Fo... Dev! Not a Fox! I'm a developer! By the way, let's introduce myself!
-I'm 20 years old, and I'm a developer since 2012, I started studying Visual Basic as my first programming
-language, then I started studying Java programming Android, C++, PHP and so on over time.
-I love drawing and watching Disney movies in my spare time, my favourite animals are
-Fox and Red Panda.
+## Halo! I'm Laky64!
+I'm an Artist and a Developer! By the way, let's introduce myself!
+I'm 22 years old, and I've been a developer since 2012 and an artist since 2017, I started studying Visual Basic as my first programming
+language. Then I studied Java programming Android, C++, PHP, and so on over time.
+I love drawing and watching Disney movies in my spare time, my favorite animals are
+Foxes, Japanese Marten, and Red Panda.
 
 <h3>Languages, Database, Tools</h3>
 <p>
