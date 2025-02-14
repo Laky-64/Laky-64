@@ -2,7 +2,7 @@
 
 ## Halo! I'm Laky64!
 I'm an Artist and a Developer! By the way, let's introduce myself!
-I'm 22 years old, and I've been a developer since 2012 and an artist since 2017, I started studying Visual Basic as my first programming
+I'm 23 years old, and I've been a developer since 2012 and an artist since 2017, I started studying Visual Basic as my first programming
 language. Then I studied Java programming Android, C++, PHP, and so on over time.
 I love drawing and watching Disney movies in my spare time, my favorite animals are
 Foxes, Japanese Marten, and Red Panda.
