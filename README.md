@@ -57,4 +57,4 @@ Foxes, Sables, and Red Panda.
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
+<img src="https://github-stats-extended.vercel.app/api/?username=Laky-64&show_icons=true&theme=github_dark" alt="Stats">
